@@ -13,3 +13,6 @@
 [submodule "plugins/start/nvim-tree.lua"]
 	path = plugins/start/nvim-tree.lua
 	url = git@github.com:nvim-tree/nvim-tree.lua.git
+[submodule "plugins/start/plenary"]
+	path = plugins/start/plenary
+	url = git@github.com:nvim-lua/plenary.nvim.git
