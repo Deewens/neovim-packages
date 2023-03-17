@@ -4,3 +4,12 @@
 [submodule "colors/start/darcula"]
 	path = colors/start/darcula
 	url = git@github.com:doums/darcula.git
+[submodule "plugins/start/bufferline.nvim"]
+	path = plugins/start/bufferline.nvim
+	url = git@github.com:akinsho/bufferline.nvim.git
+[submodule "plugins/start/nvim-web-devicons"]
+	path = plugins/start/nvim-web-devicons
+	url = git@github.com:nvim-tree/nvim-web-devicons.git
+[submodule "plugins/start/nvim-tree.lua"]
+	path = plugins/start/nvim-tree.lua
+	url = git@github.com:nvim-tree/nvim-tree.lua.git
