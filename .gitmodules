@@ -16,3 +16,9 @@
 [submodule "plugins/start/plenary"]
 	path = plugins/start/plenary
 	url = git@github.com:nvim-lua/plenary.nvim.git
+[submodule "plugins/start/telescope"]
+	path = plugins/start/telescope
+	url = git@github.com:nvim-telescope/telescope.nvim.git
+[submodule "plugins/start/telescope-fzf-native"]
+	path = plugins/start/telescope-fzf-native
+	url = git@github.com:nvim-telescope/telescope-fzf-native.nvim.git
