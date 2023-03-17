@@ -10,4 +10,4 @@ My Neovim package storage to easily sync and update the plugin I'm using.
 - **[plenary](https://github.com/nvim-lua/plenary.nvim)**: Library of useful lua function for neovim (required by some plugins)
 - **[Telescope](https://github.com/nvim-telescope/telescope.nvim)**: highly extendable fuzzy finder over lists.
     - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) -> `sudo apt install ripgrep`
-    - **[telescope-fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim)**: significantly improve telescope sorting performance
+    - **[telescope-fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim)**: significantly improve telescope sorting performance. **IF NOT WORKING, MUST BE COMPILED (using `make` or `cmake`)**
